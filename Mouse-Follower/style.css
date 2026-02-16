@@ -15,7 +15,10 @@ body {
     height: 40px;
     border-radius: 50%;
     border: 1px solid crimson;
-    transition: all linear 0.3s;
+    position: fixed;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.3s linear;
 }
 
 .inner_box {
@@ -23,5 +26,8 @@ body {
     height: 20px;
     background-color: red;
     border-radius: 50%;
-    transition: all linear 0.5s;
+    position: fixed;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.5s linear;
 }
