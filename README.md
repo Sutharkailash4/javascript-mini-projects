@@ -1,1 +1,2 @@
-Weather-App Live Demo => weather-app-for-fetch.netlify.app
+🌦 Weather App
+Live Demo 👉 https://weather-app-for-fetch.netlify.app
