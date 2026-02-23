@@ -17,7 +17,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: antiquewhite;
+    background-color: #1d1717;
 }
 
 @property --rotation {
